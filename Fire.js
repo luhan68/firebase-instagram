@@ -13,11 +13,11 @@ const collectionName = 'snack-SJucFknGX';
 class Fire {
   constructor() {
     firebase.initializeApp({
-      apiKey: 'AIzaSyAQan8_IJ6fY6F8E06FMDKVbWlrdI75mvA',
-      authDomain: 'instahamm-b09ce.firebaseapp.com',
-      databaseURL: 'https://instahamm-b09ce.firebaseio.com',
-      projectId: 'instahamm-b09ce',
-      storageBucket: 'instahamm-b09ce.appspot.com',
+      apiKey: 'AIzaSyCan7__AQnT2TGtK0RRJLnK0OYjtmKU6og',
+      authDomain: 'hack-at-home-17fca.firebaseapp.com',
+      databaseURL: 'https://hack-at-home-17fca.firebaseio.com',
+      projectId: 'hack-at-home-17fca',
+      storageBucket: 'gs://hack-at-home-17fca.appspot.com',
       messagingSenderId: '716190466061',
     });
     // Some nonsense...
